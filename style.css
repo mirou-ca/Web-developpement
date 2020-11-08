@@ -1,0 +1,16 @@
+label
+{
+	font-size: 15px;
+	font-weight: bold;
+	text-decoration: underline;
+	color: red;
+}
+.erreur-txt
+{
+color:#C62828;
+background-color: rgba(255,0,0,0.1);
+padding: 5px 8px;
+border-radius: 3px;
+border: 1px solid #EF9A9A;
+display: none;
+}
